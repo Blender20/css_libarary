@@ -53,7 +53,7 @@ img {
 aside {
     flex-direction: column;
     min-height: 25%vh;
-    background:
+    background: red;
 }
 
 footer {
